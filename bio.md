@@ -6,3 +6,5 @@ I love nothing more than the crackling of of a bon fire and the mist of the morn
 I took assembly langauge, which I loved.
 I also took data structures, which I loved.
 
+My goal by the end of this quarter is to create websites for businesses to support myself until I graduate from OSU.
+
